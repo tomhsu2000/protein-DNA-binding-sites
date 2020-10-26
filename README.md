@@ -7,6 +7,8 @@
 * 蛋白質結構檔(PDB format) [點此看範例](https://github.com/tomhsu2000/protein-DNA-binding-sites/tree/main/src)
 * DNA結構檔(PDB format) [點此看範例](https://github.com/tomhsu2000/protein-DNA-binding-sites/tree/main/src)
 * 平移旋轉矩陣 [點此看範例](https://github.com/tomhsu2000/protein-DNA-binding-sites/tree/main/src)
+#### Notice
+[PDB format](http://www.wwpdb.org/documentation/file-formatcontent/format33/sect9.html#ATOM)
 ### Compile & Execute
 ``` 
 $ g++ main.cpp
